@@ -1,0 +1,46 @@
+H:\Barcode\Barcode\bin\Debug\Barcode.exe
+H:\Barcode\Barcode\bin\Debug\Barcode.pdb
+H:\Barcode\Barcode\obj\Debug\ResolveAssemblyReference.cache
+H:\Barcode\Barcode\obj\Debug\Barcode.Properties.Resources.resources
+H:\Barcode\Barcode\obj\Debug\Barcode.csproj.GenerateResource.Cache
+H:\Barcode\Barcode\obj\Debug\Barcode.exe
+H:\Barcode\Barcode\obj\Debug\Barcode.pdb
+H:\Barcode\Barcode\obj\Debug\Barcode.Form1.resources
+C:\Users\Master\Desktop\FinalBarcode\Barcode\Barcode\bin\Debug\Barcode.exe
+C:\Users\Master\Desktop\FinalBarcode\Barcode\Barcode\bin\Debug\Barcode.pdb
+C:\Users\Master\Desktop\FinalBarcode\Barcode\Barcode\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Master\Desktop\FinalBarcode\Barcode\Barcode\obj\Debug\Barcode.Form1.resources
+C:\Users\Master\Desktop\FinalBarcode\Barcode\Barcode\obj\Debug\Barcode.Properties.Resources.resources
+C:\Users\Master\Desktop\FinalBarcode\Barcode\Barcode\obj\Debug\Barcode.csproj.GenerateResource.Cache
+C:\Users\Master\Desktop\FinalBarcode\Barcode\Barcode\obj\Debug\Barcode.exe
+C:\Users\Master\Desktop\FinalBarcode\Barcode\Barcode\obj\Debug\Barcode.pdb
+C:\Users\Master\Desktop\Code 128\Barcode\Barcode\bin\Debug\Barcode.exe
+C:\Users\Master\Desktop\Code 128\Barcode\Barcode\bin\Debug\Barcode.pdb
+C:\Users\Master\Desktop\Code 128\Barcode\Barcode\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Master\Desktop\Code 128\Barcode\Barcode\obj\Debug\Barcode.Form1.resources
+C:\Users\Master\Desktop\Code 128\Barcode\Barcode\obj\Debug\Barcode.Properties.Resources.resources
+C:\Users\Master\Desktop\Code 128\Barcode\Barcode\obj\Debug\Barcode.csproj.GenerateResource.Cache
+C:\Users\Master\Desktop\Code 128\Barcode\Barcode\obj\Debug\Barcode.exe
+C:\Users\Master\Desktop\Code 128\Barcode\Barcode\obj\Debug\Barcode.pdb
+D:\Projects\Charity\Barcode\Barcode\bin\Debug\Barcode.exe
+D:\Projects\Charity\Barcode\Barcode\bin\Debug\Barcode.pdb
+D:\Projects\Charity\Barcode\Barcode\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Charity\Barcode\Barcode\obj\Debug\Barcode.Form1.resources
+D:\Projects\Charity\Barcode\Barcode\obj\Debug\Barcode.Properties.Resources.resources
+D:\Projects\Charity\Barcode\Barcode\obj\Debug\Barcode.Form2.resources
+D:\Projects\Charity\Barcode\Barcode\obj\Debug\Barcode.csproj.GenerateResource.Cache
+D:\Projects\Charity\Barcode\Barcode\obj\Debug\Barcode.exe
+D:\Projects\Charity\Barcode\Barcode\obj\Debug\Barcode.pdb
+D:\Projects\Charity\Barcode\Barcode\obj\Debug\Barcode.frmPrintPreview.resources
+D:\Projects\Charity\Barcode\Barcode\obj\Debug\Barcode.frmPrintPreview2.resources
+G:\Charity\Barcode\Barcode\obj\Debug\Barcode.exe
+G:\Charity\Barcode\Barcode\obj\Debug\Barcode.pdb
+G:\Charity\Barcode\Barcode\bin\Debug\Barcode.exe
+G:\Charity\Barcode\Barcode\bin\Debug\Barcode.pdb
+G:\Charity\Barcode\Barcode\obj\Debug\ResolveAssemblyReference.cache
+G:\Charity\Barcode\Barcode\obj\Debug\Barcode.Form1.resources
+G:\Charity\Barcode\Barcode\obj\Debug\Barcode.frmPrintPreview.resources
+G:\Charity\Barcode\Barcode\obj\Debug\Barcode.frmPrintPreview2.resources
+G:\Charity\Barcode\Barcode\obj\Debug\Barcode.Properties.Resources.resources
+G:\Charity\Barcode\Barcode\obj\Debug\Barcode.Form2.resources
+G:\Charity\Barcode\Barcode\obj\Debug\Barcode.csproj.GenerateResource.Cache
